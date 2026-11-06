@@ -1,0 +1,7 @@
+*.asv
+*.autosave
+*.mat
+*.xlsx
+*.xls
+results/
+.DS_Store
